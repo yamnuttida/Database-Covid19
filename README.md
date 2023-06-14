@@ -1,2 +1,2 @@
-# DBcovid19
+# Database-Covid19
 Database Design
